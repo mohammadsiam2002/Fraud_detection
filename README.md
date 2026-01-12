@@ -18,6 +18,15 @@ The project covers the complete machine learning pipeline, including:
 >Apply machine learning techniques to real-world transaction data.
 >Provide a simple and interactive web interface for predictions.
 
+
+**Dataset
+Due to GitHub file size limits, the dataset is not stored in this repository.
+
+You can download it from:
+🔗 Dataset Link:
+https://drive.google.com/file/d/1RcJRtQYILDjapaUG2okVZvq7i7x47EZA/view?usp=sharing
+
+
 **Project Workflow
 
 Dataset (CSV)
